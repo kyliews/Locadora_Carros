@@ -1,4 +1,4 @@
-Bem-vindo à Locadora Kylls, um projeto simples de locação de carros em Python.
+Acesse a Locadora Kylls, um projeto simples de locação de carros em Python.
 
 Funcionalidades:
 - Interação via console
